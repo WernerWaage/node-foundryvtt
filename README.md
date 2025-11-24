@@ -44,7 +44,7 @@ Im using the docker.desktop client to get an overview of running containers and 
 * Forward port 30000 to your computer if you want to make instance available online
 
 ## Debugging
-# Server is running but you cant browse to 0.0.0.0:30000 ? Check if the port is mapped `docker ps` also check if the external port is mapped to 30000, not setting the port or setting it to 0 when running the image will generate a random external port number 
+* Server is running but you cant browse to 0.0.0.0:30000 ? Check if the port is mapped `docker ps` also check if the external port is mapped to 30000, not setting the port or setting it to 0 when running the image will generate a random external port number 
 
 
 Thanks to [thomasfa18](https://github.com/thomasfa18/) for creating the original image!
