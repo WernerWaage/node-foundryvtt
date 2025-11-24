@@ -11,8 +11,7 @@ Here is my take on how to get Foundry VTT up and running in a docker container i
 [![CI to Docker Hub](https://github.com/WernerWaage/node-foundryvtt-13/actions/workflows/docker-image.yml/badge.svg)](https://github.com/WernerWaage/node-foundryvtt-13/actions/workflows/docker-image.yml)
 ![Docker Image Version](https://img.shields.io/docker/v/wernerwaage/node-foundryvtt-13?sort=semver)
 ![Docker Image Size](https://img.shields.io/docker/image-size/wernerwaage/node-foundryvtt-13)
-![Docker Last Push](https://img.shields.io/docker/image-size/wernerwaage/node-foundryvtt-13?label=last+pushed&color=blue)
-  
+![Docker Build Date](https://img.shields.io/github/last-commit/WernerWaage/node-foundryvtt-13?label=last+build&logo=docker)
   
 # Roll for initiative:
 * Download the node js zip file from https://foundryvtt.com/
