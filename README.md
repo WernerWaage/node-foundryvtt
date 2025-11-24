@@ -8,6 +8,9 @@ Here is my take on how to get Foundry VTT up and running in a docker container i
 * Intelligence score of 8 or higher
 
 
+[![CI to Docker Hub](https://github.com/WernerWaage/node-foundryvtt-13/actions/workflows/docker-image.yml/badge.svg)](https://github.com/WernerWaage/node-foundryvtt-13/actions/workflows/docker-image.yml)
+
+
 # Roll for initiative:
 * Download the node js zip file from https://foundryvtt.com/
  ![Page showing foundry vtt downloads](/gfx/foundry0.png?raw=true)
